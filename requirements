@@ -1,0 +1,3 @@
+psycopg
+django-location-field
+six
